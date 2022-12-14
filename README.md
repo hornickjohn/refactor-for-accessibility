@@ -21,3 +21,7 @@ N/A
 ## License
 
 N/A
+
+## As-Deployed Screenshot
+
+![Image of Website](./assets/images/screenshot.png)
