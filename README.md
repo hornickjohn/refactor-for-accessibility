@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Peruse index.html and assets/style.css to see refactored code with redundancies removed, semantic elements added, comments attached, bugs fixed, icon provided, and a couple of things entirely reworked for the sake of organization/extensibility. To view the deployed product, visit: 
+Peruse index.html and assets/style.css to see refactored code with redundancies removed, semantic elements added, comments attached, bugs fixed, icon provided, and a couple of things entirely reworked for the sake of organization/extensibility. To view the deployed product, visit: https://hornickjohn.github.io/refactor-for-accessibility/
 
 ## Credits
 
